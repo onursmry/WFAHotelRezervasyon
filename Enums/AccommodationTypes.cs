@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WFAHotelRezervasyon.Enums
 {
-    public enum AccomodationTypes
+    public enum AccommodationTypes
     {
         Single,
         Double,
