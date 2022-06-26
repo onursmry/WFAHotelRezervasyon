@@ -3,7 +3,7 @@ using WFAHotelRezervasyon.Entities.Abstract;
 
 namespace WFAHotelRezervasyon.Entities.Concrete
 {
-    internal class Reservation : BaseEntities
+    public class Reservation : BaseEntities
     {
         
         

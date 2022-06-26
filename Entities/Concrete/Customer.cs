@@ -2,7 +2,7 @@
 
 namespace WFAHotelRezervasyon.Entities.Concrete
 {
-    internal class Customer:BaseEntities
+    public class Customer:BaseEntities
     {
        
         public string Name { get; set; }
